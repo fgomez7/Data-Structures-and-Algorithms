@@ -5,3 +5,7 @@ This repository houses one of the more important projects for my personal learni
 ## Authors 
 
 * **[Francisco Gomez](https://github.com/fgomez7)
+
+## License
+
+This Project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
