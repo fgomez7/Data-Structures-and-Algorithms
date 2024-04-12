@@ -4,7 +4,7 @@ This repository houses one of the more important projects for my personal learni
 
 ## Authors 
 
-* **[Francisco Gomez](https://github.com/fgomez7)
+* **[Francisco Gomez](https://github.com/fgomez7)**
 
 ## License
 
